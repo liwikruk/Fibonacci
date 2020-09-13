@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTnzqRi1U4y1QFLm/NuLWITq76wRs41tFdHt+krcEx1ir0l0FKZO618rZkfza7J5pNXcw+ZkY1EUOYqBPT8I2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liwikruk\\source\\repos\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liwikruk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
